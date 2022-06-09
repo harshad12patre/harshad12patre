@@ -9,6 +9,10 @@
 
 ### GitHub Stats
 
-[![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshad12patre)]()
+<p align="center">
+[![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshad12patre)](https://github.com/harshad12patre)
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshad12patre)
+<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshad12patre)](https://github.com/harshad12patre)
+</p>
