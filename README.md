@@ -7,4 +7,4 @@
 - 👯 I’m looking to collaborate on anything of shared interest. HMU.
 - 📫 How to reach me: @harshad12patre on most platforms. Probably drop me an email?
 
-![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshad12patre&count_private=true)
+![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshad12patre)
