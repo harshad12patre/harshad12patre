@@ -7,4 +7,8 @@
 - 👯 I’m looking to collaborate on anything of shared interest. HMU.
 - 📫 How to reach me: @harshad12patre on most platforms. Probably drop me an email?
 
-![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshad12patre) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Stats
+
+![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshad12patre) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
